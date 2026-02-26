@@ -1,4 +1,4 @@
-# SINERGIA
+
 
 Recuerda configurar el archivo .env con el nombre de la base,usuario ,contraseña y el tipo de conexion.
 Para ejecutar las migraciones // php artisan migrate
